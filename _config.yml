@@ -12,7 +12,7 @@ email: your-email@domain.com
 description: > #
   Resuelve tus dudas sobre Ginecologia Fertilidad Sexualidad
   Menopausia Embarazo Cancer Pregunta!
-  por Lorena de Bengoechea ginecóloga
+  Lorena de Bengoechea,ginecóloga
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
